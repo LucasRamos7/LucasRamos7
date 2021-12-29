@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Lucas
 #### I am a Python developer
-I'm a Civil Engineer who, after graduating, is trying to migrate towards software and web developer. 
+I'm a Civil Engineer who, after graduating, is trying to migrate towards software and web development. 
 
 I'm studying Python applications in Data Science, while aiming to dive into ReactJS and NodeJS down the road.
 
