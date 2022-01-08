@@ -15,7 +15,7 @@ Skills: Python / C++ / HTML / CSS / Javascript
 - ⚡ Fun fact: I'm also a musician and cinema enthusiast! 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LucasRamos7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucas-ramos-959116203//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/luks_ramos)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LucasRamos7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucas-ramos-959116203//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRamos7)](https://github.com/anuraghazra/github-readme-stats)
 
