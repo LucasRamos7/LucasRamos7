@@ -2,7 +2,7 @@
 #### I am a Python developer
 I'm a Civil Engineer who, after graduating, is aiming to migrate towards software and web development. 
 
-I'm studying Python applications in Data Science, while aiming to dive into ReactJS and NodeJS for web development down the road.
+I'm studying Python applications in Data Science, while aiming to dive into Django, ReactJS and  NodeJS for web development down the road.
 
 Skills: Python / C++ / HTML / CSS / Javascript
 
