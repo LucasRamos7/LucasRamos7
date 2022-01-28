@@ -6,7 +6,7 @@ I'm studying Python applications in Data Science, while aiming to dive into Djan
 
 Skills: Python / C++ / HTML / CSS / Javascript
 
-- 🔭 I’m currently working on Little Python projects 
+- 🔭 I’m currently working on a REST API for managing one's personal budget 
 - 🌱 I’m currently learning Python / HTML / CSS 
 - 👯 I’m looking to collaborate on Software / web applications 
 - 🤔 I’m looking for help with new ideas to tackle as practice 
