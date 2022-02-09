@@ -2,12 +2,12 @@
 #### I am a Python developer
 I'm a Civil Engineer who, after graduating, is aiming to migrate towards software and web development. 
 
-I'm studying Python applications in Data Science, while aiming to dive into Django, ReactJS and  NodeJS for web development down the road.
+I'm studying Django REST Framework and aiming to tackle NodeJS and PHP next!
 
 Skills: Python / C++ / HTML / CSS / Javascript
 
-- 🔭 I’m currently working on a REST API for managing one's personal budget 
-- 🌱 I’m currently learning Python / HTML / CSS 
+- 🔭 I’m currently working on a REST API for managing one's personal budget using Django REST Framework
+- 🌱 I’m currently learning Python (Django)
 - 👯 I’m looking to collaborate on Software / web applications 
 - 🤔 I’m looking for help with new ideas to tackle as practice 
 - 📫 How to reach me: lucassouzaramos@poli.ufrj.br 
