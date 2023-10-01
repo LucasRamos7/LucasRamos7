@@ -1,16 +1,16 @@
 ### Hi there 👋, my name is Lucas
 #### I am a Python developer
-I'm a Civil Engineer who, after graduating, is aiming to migrate towards software and web development. 
+I'm a Civil Engineer who migrated toward software and web development after graduating. 
 
-I'm studying Django REST Framework and aiming to tackle NodeJS and PHP next!
+I'm studying Python and starting C# aiming to learn the .NET Framework.
 
 Skills: Python / C++ / HTML / CSS / Javascript
 
-- 🔭 I’m currently working on a REST API for managing one's personal budget using Django REST Framework
-- 🌱 I’m currently learning Python (Django)
+- 🔭 I’m currently working on my company's internal projects
+- 🌱 I’m currently learning Python and C#
 - 👯 I’m looking to collaborate on Software / web applications 
 - 🤔 I’m looking for help with new ideas to tackle as practice 
-- 📫 How to reach me: lucassouzaramos@poli.ufrj.br 
+- 📫 How to reach me: lucassouzaramos7@gmail.com
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I'm also a musician and a cinema enthusiast! 
 
